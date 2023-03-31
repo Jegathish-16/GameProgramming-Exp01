@@ -39,3 +39,6 @@ The save it,  go to the third person example map and create a plane or cube appl
 ![output](metallic.png)
 ### Roughness:
 ![output](rough.png)
+
+## Result:
+Thus, To Implementing various effects in a material properties in Unreal Engine is Implemented successfully.
